@@ -1,4 +1,4 @@
-# LRUCache (Least Recently Used Cache)
+# LRUCache (Least Recently Used Cache).
 
 This package provides a Go implementation of a **Least Recently Used (LRU)** cache. It offers a simple yet efficient way to store data with quick access, automatically removing the least recently accessed items when the cache reaches its capacity.
 
